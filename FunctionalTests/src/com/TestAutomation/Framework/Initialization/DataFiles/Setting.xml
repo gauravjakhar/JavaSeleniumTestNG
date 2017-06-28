@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<environment>
+	<name id="Amazon">
+		<url>https://www.amazon.in</url>
+		<browser>chrome</browser>
+		<active>1</active>
+	</name>
+</environment>
